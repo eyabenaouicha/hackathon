@@ -1,0 +1,195 @@
+[
+  {
+      "name": "Alice Martin",
+      "email": "alice.martin@example.com",
+      "role": "editor",
+      "password": "P@ssw0rd1",
+      "token": null,
+      "article": [
+          {
+              "article_name": "Smartphone Samsung Galaxy S23",
+              "article_price": 999.99,
+              "article_description": "Le Samsung Galaxy S23 est un smartphone haut de gamme avec un écran AMOLED de 6,1 pouces, une caméra de 50 MP, et un processeur Snapdragon 8 Gen 2 pour une performance optimale."
+          },
+          {
+              "article_name": "Casque Bluetooth Sony WH-1000XM5",
+              "article_price": 350,
+              "article_description": "Casque Bluetooth Sony WH-1000XM5 avec réduction de bruit active, idéal pour les voyages et l'écoute de musique en haute qualité."
+          },
+          {
+              "article_name": "Montre Connectée Apple Watch Series 8",
+              "article_price": 399,
+              "article_description": "Apple Watch Series 8 avec un écran Retina toujours activé, suivi des activités de santé, et une connexion étroite avec l'iPhone."
+          }
+      ]
+  },
+  {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "role": "admin",
+      "password": "Xc@V2uJ8",
+      "token": null,
+      "article": [
+          {
+              "article_name": "T-shirt Nike Air",
+              "article_price": 25,
+              "article_description": "T-shirt en coton doux avec logo Nike Air imprimé sur le devant, idéal pour un look décontracté et sportif."
+          },
+          {
+              "article_name": "Jeans Levi's 511 Slim Fit",
+              "article_price": 80,
+              "article_description": "Jean Levi's 511 Slim Fit, une coupe ajustée, fabriqué en denim de haute qualité pour un style intemporel et confortable."
+          },
+          {
+              "article_name": "Baskets Adidas Ultraboost 22",
+              "article_price": 180,
+              "article_description": "Les baskets Adidas Ultraboost 22 offrent un confort optimal grâce à leur technologie Boost et à leur semelle souple pour un maintien parfait."
+          }
+      ]
+  },
+  {
+      "name": "Emma Brown",
+      "email": "emma.brown@example.com",
+      "role": "user",
+      "password": "3kP4lFs9",
+      "token": null,
+      "article": [
+          {
+              "article_name": "1984 de George Orwell",
+              "article_price": 10,
+              "article_description": "1984 est un roman dystopique emblématique de George Orwell, qui explore les dangers du totalitarisme et de la surveillance étatique."
+          },
+          {
+              "article_name": "Le Petit Prince d'Antoine de Saint-Exupéry",
+              "article_price": 7.50,
+              "article_description": "Un conte poétique et philosophique sur la vie, l'amour et l'amitié, qui reste un classique de la littérature pour enfants et adultes."
+          },
+          {
+              "article_name": "Sapiens : Une brève histoire de l'humanité de Yuval Noah Harari",
+              "article_price": 14.99,
+              "article_description": "Sapiens de Yuval Noah Harari examine l'histoire de l'humanité depuis l'apparition de l'Homo sapiens jusqu'à l'ère moderne, en analysant notre impact sur la planète."
+          }
+      ]
+  },
+  {
+      "name": "Liam Smith",
+      "email": "liam.smith@example.com",
+      "role": "editor",
+      "password": "Rj$1fM9z",
+      "token": null,
+      "article": [
+          {
+              "article_name": "Canapé 3 places Ikea Ektorp",
+              "article_price": 400,
+              "article_description": "Le canapé Ektorp d'Ikea est un canapé confortable et pratique avec des coussins en mousse, idéal pour les salons familiaux."
+          },
+          {
+              "article_name": "Lampe de Table Philips Hue",
+              "article_price": 80,
+              "article_description": "Lampe de table Philips Hue avec contrôle de la couleur de la lumière via l'application, permettant de créer une ambiance personnalisée."
+          },
+          {
+              "article_name": "Bibliothèque en Bois Maison du Monde",
+              "article_price": 200,
+              "article_description": "Bibliothèque en bois massif de la Maison du Monde, avec étagères ajustables pour une organisation optimale de vos livres et objets décoratifs."
+          }
+      ]
+  },
+  {
+      "name": "Sophia Garcia",
+      "email": "sophia.garcia@example.com",
+      "role": "moderator",
+      "password": "4fVj9S1a",
+      "token": null,
+      "article": [
+          {
+              "article_name": "Poupée Barbie Dreamhouse",
+              "article_price": 150,
+              "article_description": "La maison de rêve Barbie avec plusieurs pièces et accessoires, idéale pour les enfants à partir de 3 ans."
+          },
+          {
+              "article_name": "Lego Star Wars Millennium Falcon",
+              "article_price": 170,
+              "article_description": "Le vaisseau spatial Millennium Falcon de Lego Star Wars, un modèle complexe avec plus de 1000 pièces pour les fans de la saga."
+          },
+          {
+              "article_name": "Jeu de société Monopoly",
+              "article_price": 25,
+              "article_description": "Monopoly, le jeu de société classique où les joueurs achètent et échangent des propriétés pour accumuler des richesses et dominer le marché."
+          }
+      ]
+  },
+  {
+      "name": "James White",
+      "email": "james.white@example.com",
+      "role": "user",
+      "password": "7sX3D2Nq",
+      "token": null,
+      "article": [
+          {
+              "article_name": "Chocolat Lindt Excellence 70%",
+              "article_price": 4.50,
+              "article_description": "Chocolat Lindt Excellence 70%, une tablette de chocolat noir haut de gamme avec 70% de cacao, offrant un goût riche et intense."
+          },
+          {
+              "article_name": "Café Moulu Illy",
+              "article_price": 8,
+              "article_description": "Café moulu Illy, un mélange de café de haute qualité avec des arômes équilibrés pour un café doux et savoureux."
+          },
+          {
+              "article_name": "Pâtes Barilla Spaghetti",
+              "article_price": 2.50,
+              "article_description": "Pâtes Barilla Spaghetti, des pâtes italiennes de qualité supérieure, parfaites pour vos plats de pâtes classiques."
+          }
+      ]
+  },
+  {
+      "name": "Charlotte Taylor",
+      "email": "charlotte.taylor@example.com",
+      "role": "user",
+      "password": "9tX1n5Yp",
+      "token": null,
+      "article": [
+          {
+              "article_name": "Vélo de route Trek Domane AL 2",
+              "article_price": 650,
+              "article_description": "Le vélo de route Trek Domane AL 2 est un modèle léger avec un cadre en aluminium, idéal pour les cyclistes débutants ou intermédiaires."
+          },
+          {
+              "article_name": "Raquette de Tennis Wilson Pro Staff 97",
+              "article_price": 230,
+              "article_description": "Raquette de tennis Wilson Pro Staff 97, avec une technologie avancée pour une précision et un contrôle exceptionnels sur le terrain."
+          },
+          {
+              "article_name": "Chaussures de Running Nike Air Zoom Pegasus 39",
+              "article_price": 120,
+              "article_description": "Chaussures de running Nike Air Zoom Pegasus 39, avec une excellente amorti et un confort optimal pour les coureurs."
+          }
+      ]
+  },
+  {
+      "name": "Henry Moore",
+      "email": "henry.moore@example.com",
+      "role": "admin",
+      "password": "Rg4J9Uq2",
+      "token": null,
+      "article": [
+          {
+              "article_name": "Ordinateur portable Dell XPS 13",
+              "article_price": 1200,
+              "article_description": "L'ordinateur portable Dell XPS 13 est équipé d'un processeur Intel Core i7 de 11e génération, d'un écran InfinityEdge de 13 pouces, et d'une autonomie de batterie impressionnante."
+          },
+          {
+              "article_name": "Souris Logitech MX Master 3",
+              "article_price": 100,
+              "article_description": "Souris sans fil Logitech MX Master 3 avec une ergonomie parfaite, des boutons personnalisables et une batterie rechargeable avec une autonomie de 70 jours."
+          },
+          {
+              "article_name": "Clavier mécanique Corsair K95 RGB",
+              "article_price": 200,
+              "article_description": "Clavier mécanique Corsair K95 RGB avec des switches Cherry MX, des touches dédiées pour le contrôle multimédia et un éclairage RGB personnalisable."
+          }
+      ]
+    }
+
+  ]
