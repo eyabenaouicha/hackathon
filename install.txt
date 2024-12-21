@@ -23,5 +23,10 @@ npm install --save-dev @types/express
 npm run start:dev
 
 frontend
+ npm install -g vite  
+ npm install vite --save-dev
+
 npm install next react react-dom
 npm run dev
+
+
