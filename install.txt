@@ -11,6 +11,8 @@ nest g class auth/strategies/jwt --no-spec
 nest g class auth/interfaces/jwt-payload --no-spec
 
 
+backend:
+npm install -g @nestjs/cli
 npm i @nestjs/config   (tnajm tekhdm bl variable d'environnement)
 npm install bcrypt
 npm install jsonwebtoken
@@ -18,3 +20,8 @@ npm install @nestjs/jwt passport passport-jwt bcrypt
 npm install --save-dev @types/passport-jwt
 npm install express
 npm install --save-dev @types/express
+npm run start:dev
+
+frontend
+npm install next react react-dom
+npm run dev
