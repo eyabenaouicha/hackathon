@@ -1,0 +1,20 @@
+C:\Program Files\MongoDB\Server\8.0\bin    (variable d'environnement et node)
+
+nest g mo users   (yasnaalk dossier users o fih l module)
+nest g co users   (yasnaalk dossier users o fih l controller)
+nest g s users   (yasnaalk dossier users o fih l service)
+nest g module auth
+nest g controller auth
+nest g service auth
+nest g class auth/dto/login --no-spec
+nest g class auth/strategies/jwt --no-spec
+nest g class auth/interfaces/jwt-payload --no-spec
+
+
+npm i @nestjs/config   (tnajm tekhdm bl variable d'environnement)
+npm install bcrypt
+npm install jsonwebtoken
+npm install @nestjs/jwt passport passport-jwt bcrypt
+npm install --save-dev @types/passport-jwt
+npm install express
+npm install --save-dev @types/express
