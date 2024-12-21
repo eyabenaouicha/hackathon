@@ -1,62 +1,70 @@
-# Saas UI - Next.js - landing page.
 
-This is a free Next.js landing page template based on https://saas-ui.dev.
-Feel free to submit any feature requests. If you use this template please share what you've built [on Twitter](https://twitter.com/saas_js) 🚀.
+![Logo](https://ik.imagekit.io/vu5t8xb15vzcx/tr:h-100/M_akhjB4K1-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677436748377)
 
-**[View demo](https://saas-ui-nextjs-landing-page.netlify.app/)**
+## Daisy UI Next JS Landing Page Template 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-## Tech
+A free landing page template using **Daisy UI** and Next JS. With the help of Dasisy UI, it comes with **fully customizable and themable CSS** and power of Tailwind CSS utility classes.
 
-- Next.js (App router)
-- Chakra UI
-- Saas UI
-- Typescript
+
+## Preview
+
+[Live preview](https://daisyui-nextjs-landing-page.vercel.app/)
+
+
+![App Screenshot](https://ik.imagekit.io/vu5t8xb15vzcx/Screenshot%202023-11-23%20at%203.51.44%20PM_tSpwQBZKWN.png?updatedAt=1700734952531)
+
+
+
 
 ## Features
 
-- Feature blocks
-- Testimonials
-- Pricing tables
-- Log in and Sign up pages
-- FAQ
+- **Next Js** for SEO friendly
+- **Pricing** and Feature Page
+- **Daisy UI** components and **Tailwind** support
+- **Analytics** and other libraries configured
 
-## Getting Started
 
-First, clone this repo and run `pnpm i`
+## Installation
 
-To start the app run:
+Go to project directory and run (make sure you have node installed first)
 
 ```bash
-pnpm dev
+  npm install
+  npm start
 ```
+    
+## Core Libraries Used
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Next JS v13.1.6](https://reactjs.org/)
+- [Tailwind CSS v3.2.4](https://tailwindcss.com/)
+- [Daisy UI v2.41.0](https://daisyui.com/)
+- [HeroIcons](https://heroicons.com/)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-## Configuration
 
-Configuration files to edit basic site information, add testimonials, faq and pricing table can be found in `/data`.
+## Preview
 
-## Learn More
+[Live preview](https://daisyui-nextjs-landing-page.vercel.app/)
 
-Find out more about Saas UI.
 
-- [Saas UI Documentation](https://saas-ui.dev/docs).
+## Page Examples
 
-To learn more about Next.js, take a look at the following resources:
+|                          |                               |
+:-------------------------:|:-------------------------:
+![Login Page](https://ik.imagekit.io/vu5t8xb15vzcx/Screenshot%202023-11-23%20at%203.54.13%20PM_Rmidhi5Lk.png?updatedAt=1700735336477) | ![Pricing Page](https://ik.imagekit.io/vu5t8xb15vzcx/Screenshot%202023-11-23%20at%203.58.11%20PM_bOAmz0lkh.png?updatedAt=1700735336115) 
+![About Us Page](https://ik.imagekit.io/vu5t8xb15vzcx/Screenshot%202023-11-23%20at%203.58.28%20PM_Iq6KCzMfh.png?updatedAt=1700735335834) | ![Profile Page](https://ik.imagekit.io/vu5t8xb15vzcx/Screenshot%202023-11-23%20at%203.58.37%20PM_7Ewqbd5N_.png?updatedAt=1700735335793) 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Contributions are always welcome!
 
 ## License
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Feedback
+
+If you have any feedback, please reach out to us
+
