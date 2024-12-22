@@ -2,7 +2,7 @@ import Head from 'next/head'
 
 function PageMetaTags({title, description, url}){
 
-    const pageTitle = `${title}${title.includes("Web Design AI") ? "" : " | Web Design AI"}`
+    const pageTitle = `${title}${title.includes("Web Design AI") ? "" : " | JobSphere"}`
 
     return(
         <Head>
